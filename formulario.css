@@ -1,0 +1,16 @@
+
+pagina1{
+	display: inline-block;
+	margin: 50px 0;
+	padding: 10px 20px
+}
+
+form label, form p{
+	display: block;
+	font-size: 20px
+	margin0 0 20px
+	color: blue
+}
+#materil{
+	width: 30%;
+}
